@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DesignerMobile.Pages.Sobre"
+             Title="Sobre">
+    <StackLayout Padding="10">
+        <Label Text="Sobre o Sistema de Conversão" FontSize="Large" Margin="0,0,0,10" />
+        <Label Text="Este aplicativo permite converter unidades de medida entre Kilômetros, Hectômetros, Metros e Centímetros." FontSize="Medium" Margin="0,0,0,10">
+            <Label.Shadow>
+                <Shadow Brush="Black" Offset="2,2" Opacity="0.8" />
+            </Label.Shadow>
+        </Label>
+        <Label Text="Desenvolvido por 2405536 - Isaias Neri da Conceição Junior" FontSize="Medium">
+            <Label.Shadow>
+                <Shadow Brush="Black" Offset="2,2" Opacity="0.8" />
+            </Label.Shadow>
+        </Label>
+    </StackLayout>
+</ContentPage>

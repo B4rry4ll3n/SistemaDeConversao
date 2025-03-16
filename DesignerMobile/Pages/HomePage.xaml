@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DesignerMobile.Pages.HomePage"
+             Title="Sistema de Conversão">
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Label Text="DESENVOLVIMENTO MOBILE ANDROID" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="0" />
+
+        <HorizontalStackLayout HorizontalOptions="Center" Spacing="10" Grid.Row="1">
+            <Button Text="KM -> MT" Clicked="OnKmToMtClicked" BackgroundColor="Black" FontSize="Micro"/>
+            <Button Text="MT -> CM" Clicked="OnMtToCmClicked" BackgroundColor="Black" FontSize="Micro" />
+            <Button Text="HEC -> MT" Clicked="OnHecToMtClicked" BackgroundColor="Black" FontSize="Micro" />
+            <Button Text="SOBRE" Clicked="OnSobreClicked" BackgroundColor="Black" FontSize="Micro"/>
+        </HorizontalStackLayout>
+    </Grid>
+</ContentPage>

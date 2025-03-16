@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DesignerMobile
+build_property.ProjectDir = J:\Source\repo\DesignerMobile\DesignerMobile\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Pages/HectometrosParaMetros.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Pages.HectometrosParaMetros.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HectometrosParaMetros.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HectometrosParaMetros.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Pages/KilometrosParaMetros.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Pages.KilometrosParaMetros.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\KilometrosParaMetros.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\KilometrosParaMetros.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Pages/MetrosParaCentimetros.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Pages.MetrosParaCentimetros.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MetrosParaCentimetros.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MetrosParaCentimetros.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Pages/Sobre.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Pages.Sobre.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Sobre.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Sobre.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[J:/Source/repo/DesignerMobile/DesignerMobile/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DesignerMobile.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
